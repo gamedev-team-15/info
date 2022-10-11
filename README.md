@@ -6,4 +6,4 @@
 
 > [Lab 1](./readme-lab-1.md)
 
-> [Project repository](https://github.com/gamedev-team-15/game)
+> [Game repository](https://github.com/gamedev-team-15/game)
