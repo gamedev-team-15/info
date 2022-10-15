@@ -20,6 +20,6 @@
 ## Chosen games analysis
 - ### [Dark Souls: Remastered](games/g1.md)
 - ### [Counter-Strike: Global Offensive](games/g2.md)
-- ### [Game 3](games/g3.md)
-- ### [Game 4](games/g4.md)
-- ### [Game 5](games/g5.md)
+- ### [Hollow Knight](games/g3.md)
+- ### [S.T.A.L.K.E.R](games/g4.md)
+- ### [Far Cry 6](games/g5.md)
